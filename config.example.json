@@ -1,0 +1,24 @@
+{
+    "miner_ips": [
+        "192.168.x.xxx",
+        "192.168.x.xxx",
+        "192.168.x.xxx",
+        "192.168.x.xxx"
+    ],
+    "ip_to_name": {
+        "192.168.x.xxx": "Miner1",
+        "192.168.x.xxx": "Miner2",
+        "192.168.x.xxx": "Miner3",
+        "192.168.x.xxx": "Miner4"
+    },
+    "btc_logo_path": "logos/btc.png",
+    "min_diff_threshold": 75000,
+    "min_active_hashrate_th": 0.25,
+    "data_timeout_sec": 60.0,
+    "num_diffs_to_keep": 20,
+    "max_lines_on_screen": 6,
+    "screen_width": 480,
+    "screen_height": 320,
+    "target_fps": 8,
+    "mempool_update_every": 30.0
+}
