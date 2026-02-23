@@ -8,7 +8,7 @@ for Raspberry Pi TFT/HDMI Displays
 [![Pygame](https://img.shields.io/badge/Rendered%20with-Pygame-9cf?logo=python)](https://www.pygame.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="assets/demo.jpg" width="480" alt="RPi Bitcoin Mining Difficulty Meter Display in action"/>
+<img src="assets/demo.jpg" width="100%" alt="RPi Bitcoin Mining Difficulty Meter Display in action"/>
 
 </div>
 
